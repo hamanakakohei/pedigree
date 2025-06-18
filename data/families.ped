@@ -1,0 +1,179 @@
+family_id	individual_id	paternal_id	maternal_id	sex	label	fill
+Pt0348	Pt0348_1_fa			1	+	
+Pt0348	Pt0348_2_mo			2	+	
+Pt0348	Pt0348_3_pt	Pt0348_1_fa	Pt0348_2_mo	2	mut	black
+Pt0442	Pt0442_1_fa			1	+	
+Pt0442	Pt0442_2_mo			2	+	
+Pt0442	Pt0442_3_pt	Pt0442_1_fa	Pt0442_2_mo	2	mut	black
+Pt0457	Pt0457_1_fa			1	+	
+Pt0457	Pt0457_2_mo			2	+	
+Pt0457	Pt0457_3_pt	Pt0457_1_fa	Pt0457_2_mo	1	mut	black
+Pt0616	Pt0616_1_fa			1	+	
+Pt0616	Pt0616_2_mo			2	+	
+Pt0616	Pt0616_3_pt	Pt0616_1_fa	Pt0616_2_mo	2	mut	black
+Pt0688	Pt0688_1_fa			1	+	
+Pt0688	Pt0688_2_mo			2	+	
+Pt0688	Pt0688_3_pt	Pt0688_1_fa	Pt0688_2_mo	2	mut	black
+Pt2049	Pt2049_1_fa			1	mut1	
+Pt2049	Pt2049_2_mo			2	mut2	
+Pt2049	Pt2049_3_pt	Pt2049_1_fa	Pt2049_2_mo	2	mut1\nmut2	black
+Pt2199	Pt2199_1_fa			1	mut	
+Pt2199	Pt2199_2_mo			2	mut	
+Pt2199	Pt2199_3_pt	Pt2199_1_fa	Pt2199_2_mo	2	mut\nmut	black
+Pt2283	Pt2283_1_fa			1	+	
+Pt2283	Pt2283_2_mo			2	+	
+Pt2283	Pt2283_3_pt	Pt2283_1_fa	Pt2283_2_mo	1	mut	black
+Pt2385	Pt2385_1_fa			1	+	
+Pt2385	Pt2385_2_mo			2	+	
+Pt2385	Pt2385_3_pt	Pt2385_1_fa	Pt2385_2_mo	2	mut	black
+Pt2420	Pt2420_1_fa			1	+	
+Pt2420	Pt2420_2_mo			2	+	
+Pt2420	Pt2420_3_pt	Pt2420_1_fa	Pt2420_2_mo	2	mut	black
+Pt2553	Pt2553_1_fa			1	+	
+Pt2553	Pt2553_2_mo			2	+	
+Pt2553	Pt2553_3_pt	Pt2553_1_fa	Pt2553_2_mo	2	mut	black
+Pt2637	Pt2637_1_fa			1	+	
+Pt2637	Pt2637_2_mo			2	+	
+Pt2637	Pt2637_3_pt	Pt2637_1_fa	Pt2637_2_mo	2	mut	black
+Pt2908	Pt2908_1_fa			1	+	
+Pt2908	Pt2908_2_mo			2	+	
+Pt2908	Pt2908_3_elder	Pt2908_1_fa	Pt2908_2_mo	1		
+Pt2908	Pt2908_4_pt	Pt2908_1_fa	Pt2908_2_mo	1	mut	black
+Pt7180	Pt7180_1_fa			1	+	
+Pt7180	Pt7180_2_mo			2	+	
+Pt7180	Pt7180_3_pt	Pt7180_1_fa	Pt7180_2_mo	2	mut	black
+Pt7186	Pt7186_1_fa			1	mut1	
+Pt7186	Pt7186_2_mo			2	mut2	
+Pt7186	Pt7186_3_elder	Pt7186_1_fa	Pt7186_2_mo	1	+	
+Pt7186	Pt7186_4_pt	Pt7186_1_fa	Pt7186_2_mo	1	mut1\nmut2	black
+Pt7186	Pt7186_5_young	Pt7186_1_fa	Pt7186_2_mo	1	mut1\nmut2	black
+Pt2235	Pt2235_1_fa			1	+	
+Pt2235	Pt2235_2_mo			2	+	
+Pt2235	Pt2235_3_pt	Pt2235_1_fa	Pt2235_2_mo	2	mut	black
+Pt2289	Pt2289_1_fa			1	+	
+Pt2289	Pt2289_2_mo			2	+	
+Pt2289	Pt2289_3_pt	Pt2289_1_fa	Pt2289_2_mo	1	mut	black
+Pt0712	Pt0712_1_fa			1	+	
+Pt0712	Pt0712_2_mo			2	+	
+Pt0712	Pt0712_3_pt	Pt0712_1_fa	Pt0712_2_mo	1	mut	black
+Pt2092	Pt2092_1_fa			1	+	
+Pt2092	Pt2092_2_mo			2	+	
+Pt2092	Pt2092_3_pt	Pt2092_1_fa	Pt2092_2_mo	1	mut	black
+Pt2190	Pt2190_1_fa			1	+	
+Pt2190	Pt2190_2_mo			2	+	
+Pt2190	Pt2190_3_pt	Pt2190_1_fa	Pt2190_2_mo	2	mut	black
+Pt2902	Pt2902_1_fa			1	+	
+Pt2902	Pt2902_2_mo			2	+	
+Pt2902	Pt2902_3_pt	Pt2902_1_fa	Pt2902_2_mo	1	mut	black
+Pt0600	Pt0600_1_fa			1	mut1	
+Pt0600	Pt0600_2_mo			2	mut2	
+Pt0600	Pt0600_3_pt	Pt0600_1_fa	Pt0600_2_mo	1	mut1\nmut2	black
+Pt0607	Pt0607_1_fa			1	mut	
+Pt0607	Pt0607_2_mo			2	mut	
+Pt0607	Pt0607_3_pt	Pt0607_1_fa	Pt0607_2_mo	2	mut\nmut	black
+Pt0707	Pt0707_1_fa			1	+	
+Pt0707	Pt0707_2_mo			2	+	
+Pt0707	Pt0707_3_pt	Pt0707_1_fa	Pt0707_2_mo	1	mut	black
+Pt0707	Pt0707_4_young	Pt0707_1_fa	Pt0707_2_mo	2	+	
+Pt2277	Pt2277_1_fa			1	mut	
+Pt2277	Pt2277_2_mo			2	mut	
+Pt2277	Pt2277_3_pt	Pt2277_1_fa	Pt2277_2_mo	1	mut\nmut	black
+Pt2317	Pt2317_1_fa			1	mut1	
+Pt2317	Pt2317_2_mo			2	mut2	
+Pt2317	Pt2317_3_pt	Pt2317_1_fa	Pt2317_2_mo	1	mut1\nmut2	black
+Pt2450	Pt2450_1_fa			1	mut	
+Pt2450	Pt2450_2_mo			2	mut	
+Pt2450	Pt2450_3_pt	Pt2450_1_fa	Pt2450_2_mo	1	mut\nmut	black
+Pt2547	Pt2547_1_fa			1	+	
+Pt2547	Pt2547_2_mo			2	+	
+Pt2547	Pt2547_3_elder	Pt2547_1_fa	Pt2547_2_mo	1		
+Pt2547	Pt2547_4_pt	Pt2547_1_fa	Pt2547_2_mo	2	mut	black
+Pt0448	Pt0448_1_fa			1	+	
+Pt0448	Pt0448_2_mo			2	+	
+Pt0448	Pt0448_3_pt	Pt0448_1_fa	Pt0448_2_mo	2	mut	black
+Pt2632	Pt2632_1_fa			1	+	
+Pt2632	Pt2632_2_mo			2	+	
+Pt2632	Pt2632_3_pt	Pt2632_1_fa	Pt2632_2_mo	2	mut	black
+Pt2779	Pt2779_1_fa			1	mut1	
+Pt2779	Pt2779_2_mo			2	mut2	
+Pt2779	Pt2779_3_pt	Pt2779_1_fa	Pt2779_2_mo	2	mut1\nmut2	black
+Pt7249	Pt7249_1_fa			1	+	
+Pt7249	Pt7249_2_mo			2	+	
+Pt7249	Pt7249_3_pt	Pt7249_1_fa	Pt7249_2_mo	1	mut	black
+Pt2292	Pt2292_1_fa			1	+	
+Pt2292	Pt2292_2_mo			2	+	
+Pt2292	Pt2292_3_pt	Pt2292_1_fa	Pt2292_2_mo	2	mut	black
+Pt0445	Pt0445_1_fa			1	+	
+Pt0445	Pt0445_2_mo			2	+	
+Pt0445	Pt0445_3_pt	Pt0445_1_fa	Pt0445_2_mo	2	mut	black
+Pt2538	Pt2538_1_fa			1		
+Pt2538	Pt2538_2_mo			2		
+Pt2538	Pt2538_3_pt	Pt2538_1_fa	Pt2538_2_mo	1	mut1\nmut2	black
+Pt2074	Pt2074_1_fa			1	+	
+Pt2074	Pt2074_2_mo			2	+	
+Pt2074	Pt2074_3_pt	Pt2074_1_fa	Pt2074_2_mo	1	mut	black
+Pt2361	Pt2361_1_fa			1	+	
+Pt2361	Pt2361_2_mo			2	mut	
+Pt2361	Pt2361_3_pt	Pt2361_1_fa	Pt2361_2_mo	1	mut	black
+Pt2539	Pt2539_1_fa			1		
+Pt2539	Pt2539_2_mo			2	+	
+Pt2539	Pt2539_3_pt	Pt2539_1_fa	Pt2539_2_mo	1	mut	black
+Pt7147	Pt7147_1_fa			1	+	
+Pt7147	Pt7147_2_mo			2	+	
+Pt7147	Pt7147_3_pt	Pt7147_1_fa	Pt7147_2_mo	1	mut	black
+Pt7252	Pt7252_1_fa			1	+	
+Pt7252	Pt7252_2_mo			2	+	
+Pt7252	Pt7252_3_pt	Pt7252_1_fa	Pt7252_2_mo	1	mut	black
+Pt0538	Pt0538_1_fa			1	+	
+Pt0538	Pt0538_2_mo			2	+	
+Pt0538	Pt0538_3_pt	Pt0538_1_fa	Pt0538_2_mo	1	mut	black
+Pt2061	Pt2061_1_fa			1	mut1	
+Pt2061	Pt2061_2_mo			2	mut2	
+Pt2061	Pt2061_3_elder1	Pt2061_1_fa	Pt2061_2_mo	1		
+Pt2061	Pt2061_4_elder2	Pt2061_1_fa	Pt2061_2_mo	1		
+Pt2061	Pt2061_5_elder3	Pt2061_1_fa	Pt2061_2_mo	1		
+Pt2061	Pt2061_6_pt	Pt2061_1_fa	Pt2061_2_mo	1	mut1\nmut2	black
+Pt2101	Pt2101_1_fa			1	mut1	
+Pt2101	Pt2101_2_mo			2	mut2	
+Pt2101	Pt2101_3_pt	Pt2101_1_fa	Pt2101_2_mo	2	mut1\nmut2	black
+Pt2101	Pt2101_4_young	Pt2101_1_fa	Pt2101_2_mo	1	mut1\nmut2	black
+Pt2178	Pt2178_1_fa			1	+	
+Pt2178	Pt2178_2_mo			2	+	
+Pt2178	Pt2178_3_pt	Pt2178_1_fa	Pt2178_2_mo	2	mut	black
+Pt2232	Pt2232_1_fa			1	mut1	
+Pt2232	Pt2232_2_mo			2	mut2	
+Pt2232	Pt2232_3_pt	Pt2232_1_fa	Pt2232_2_mo	2	mut1\nmut2	black
+Pt2341	Pt2341_1_fa			1	mut	
+Pt2341	Pt2341_2_mo			2	mut	
+Pt2341	Pt2341_3_pt	Pt2341_1_fa	Pt2341_2_mo	2	mut\nmut	black
+Pt2341	Pt2341_4_young	Pt2341_1_fa	Pt2341_2_mo	2	mut\nmut	black
+Pt2447	Pt2447_1_fa			1	mut	
+Pt2447	Pt2447_2_mo			2	mut	
+Pt2447	Pt2447_3_pt	Pt2447_1_fa	Pt2447_2_mo	2	mut\nmut	black
+Pt2878	Pt2878_1_fa			1	mut	
+Pt2878	Pt2878_2_mo			2	mut	
+Pt2878	Pt2878_3_pt	Pt2878_1_fa	Pt2878_2_mo	1	mut\nmut	black
+Pt7183	Pt7183_1_fa			1	mut1	
+Pt7183	Pt7183_2_mo			2	mut2	
+Pt7183	Pt7183_3_pt	Pt7183_1_fa	Pt7183_2_mo	2	mut1\nmut2	black
+Pt7234	Pt7234_1_fa			1	mut1	
+Pt7234	Pt7234_2_mo			2	mut2	
+Pt7234	Pt7234_3_elder1	Pt7234_1_fa	Pt7234_2_mo	1		
+Pt7234	Pt7234_4_elder2	Pt7234_1_fa	Pt7234_2_mo	2		
+Pt7234	Pt7234_5_pt	Pt7234_1_fa	Pt7234_2_mo	1	mut1\nmut2	black
+Pt2286	Pt2286_1_fa			1	+	
+Pt2286	Pt2286_2_mo			2	+	
+Pt2286	Pt2286_3_pt	Pt2286_1_fa	Pt2286_2_mo	1	mut	black
+Pt2286	Pt2286_4_young	Pt2286_1_fa	Pt2286_2_mo	1		
+Pt2800	Pt2800_1_fa			1	+	
+Pt2800	Pt2800_2_mo			2	+	
+Pt2800	Pt2800_3_pt	Pt2800_1_fa	Pt2800_2_mo	2	mut	black
+Pt0481	Pt0481_1_fa			1		
+Pt0481	Pt0481_2_mo			2	159\nunits	
+Pt0481	Pt0481_3_pt	Pt0481_1_fa	Pt0481_2_mo	1	244\nunits	black
+Pt0526	Pt0526_1_fa			1		
+Pt0526	Pt0526_2_mo			2		
+Pt0526	Pt0526_3_pt	Pt0526_1_fa	Pt0526_2_mo	2	repeat expansion	black
+Pt2351	Pt2351_1_fa			1		
+Pt2351	Pt2351_2_mo			2	160\nunits	
+Pt2351	Pt2351_3_pt	Pt2351_1_fa	Pt2351_2_mo	1	2452\nunits	black
