@@ -11,12 +11,18 @@
 ## ０．インストール方法
 
 ```bash
-# condaの仮想環境内で
-
 git clone https://github.com/hamanakakohei/pedigree
+
+# condaの仮想環境内で
+mamba install r-base r-tidyverse r-argparser -c conda-forge -c bioconda
+
+R
 ```
 
-
+# R内部で実行
+```R
+install.packages("pedtools")
+```
 
 ---
 
