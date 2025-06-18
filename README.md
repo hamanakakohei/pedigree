@@ -16,11 +16,12 @@ git clone https://github.com/hamanakakohei/pedigree
 # condaの仮想環境内で
 mamba install r-base r-tidyverse r-argparser -c conda-forge -c bioconda
 
+# Rを起動
 R
 ```
 
-# R内部で実行
 ```R
+# R内部で実行
 install.packages("pedtools")
 ```
 
