@@ -7,8 +7,8 @@ library(argparser)
 
 p <- arg_parser("")
 p <- add_argument(p, "--ped",              default='data/families.ped',       type="character", 
-  help="典型的なpedファイル（列名：family_id、individual_id、paternal_id、maternal_id、sex）に、\n
-  label列（シンボル下に書きたい文字列）と\n
+  help="典型的なpedファイル（列名：family_id、individual_id、paternal_id、maternal_id、sex）に、
+  label列（シンボル下に書きたい文字列）と
   fill列（罹患ならblackと記入）を加えたファイル")
 p <- add_argument(p, "--pedigree_title",   default='data/pedigree_title.txt', type="character", help="family_id、titleという2列からなるファイル、家系図の上のタイトルを指定できる")
 p <- add_argument(p, "--nrow",             default=8,            type="numeric"  , help="描く時の行数")
